@@ -4,8 +4,7 @@
 
 ##  Desenvolvedor Web Full Stack :computer:
 
-:book: Aluno da <a href="https://github.com/DigitalHouseBrasil" target="_blank"><b>@DigitalHouseBrasil<b></a>
-
+- :book: Aluno da <a href="https://github.com/DigitalHouseBrasil" target="_blank"><b>@DigitalHouseBrasil<b></a>
 - :office:   Atualmente trabalho no *Laboratório Lótus* :microscope:
 - :globe_with_meridians: https://www.laboratoriolotus.com.br
 - :computer:   Estudando HTML, CSS, Javascript e Python
