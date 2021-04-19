@@ -9,3 +9,4 @@ Aluno da <a href="https://github.com/DigitalHouseBrasil" target="_blank"><b>@Dig
 - :globe_with_meridians: https://www.laboratoriolotus.com.br
 - :computer:   Estudando HTML, CSS, Javascript e Python
 - :email:   gustavo.avk@msn.com
+
