@@ -15,7 +15,6 @@
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=GugaAraujo)
 
- <img src="https://media.giphy.com/media/PnbMbq2k4HNisBBJ9g/giphy.gif" width="30px">
 
 
 
