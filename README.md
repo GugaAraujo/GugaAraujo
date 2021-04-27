@@ -6,7 +6,7 @@
 - :book: Aluno da <a href="https://github.com/DigitalHouseBrasil" target="_blank"><b>@DigitalHouseBrasil<b></a>
 - :pushpin:   Meu mais recente projeto com desenvolvimento web:
 - :globe_with_meridians: <a href="https://www.laboratoriolotus.com.br" target="_blank" rel="noopener">www.laboratoriolotus.com.br</a>
-- :computer:   Estudando HTML, CSS, Javascript e Python
+- :computer:   HTML, CSS, Javascript e Python
 - :email:   gustavo.avk@msn.com
 
 
