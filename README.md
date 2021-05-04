@@ -2,7 +2,7 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/GugaAraujo/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/Guga.raujo/) 
 
 ##  Desenvolvedor Web Full Stack :computer:
-
+:triangular_flag_on_post: <a href="https://www.guga-araujo.dev.br/" target="_blank"><b> https://guga-araujo.dev.br/<b></a>
 - :computer:   <b>HTML, CSS, Javascript e Python</b>
 - :book: Aluno da <a href="https://github.com/DigitalHouseBrasil" target="_blank"><b>@DigitalHouseBrasil<b></a>
 - :pushpin:   Meu mais recente projeto com desenvolvimento web:
