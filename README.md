@@ -6,8 +6,8 @@
 - :computer:   <b>HTML5, CSS3, SASS, Javascript e Node.Js.</b> Noções de UX/UI e Python
 - :mortar_board: Cursando Análise e Desenvolvimento de Sistemas
 - :book: Aluno da <a href="https://github.com/DigitalHouseBrasil" target="_blank"><b>@DigitalHouseBrasil<b></a>
-- :pushpin:   Meu mais recente projeto com desenvolvimento web:
-- :globe_with_meridians: <a href="https://www.laboratoriolotus.com.br" target="_blank" rel="noopener">www.laboratoriolotus.com.br</a>
+- :pushpin:   Meu mais recente projeto: <a href="https://websocket-chat-project.herokuapp.com/" target="_blank" rel="noopener">websocket-chat-project.herokuapp.com</a> (Chat em Node.Js com websocket)
+
 - :email:   gustavoaraujo.dev@gmail.com
 
 
