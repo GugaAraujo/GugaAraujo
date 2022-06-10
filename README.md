@@ -6,10 +6,16 @@
 - :computer:   <b>Express, Nest.Js, Azure DevOps, Websocket,<br>
 MongoDB e MySQL com Mongoose ou Sequelize,<br>
 Git Flow, APIs REST, Bootstrap e Sass/Scss.</b>
+
 - :mortar_board: Cursando Análise e Desenvolvimento de Sistemas
-- :pushpin:   Meu mais recente projeto: 
-<a href="https://websocket-chat-project.herokuapp.com/" target="_blank" rel="noopener">websocket-chat-project.herokuapp.com</a> <br>
-Chat em Node.Js com NestJS, TypeScript, MongoDB, Mongoose e Websocket
+
+- :pushpin:   Meus mais recentes projetos:
+
+-> <a href="https://task-tracker-vue.vercel.app" target="_blank" rel="noopener">task-tracker-vue.vercel.app</a> <br>
+   Controlador de Tarefas com Vue 3, Vuex, Bulma, JSON-Server e gráficos utilizando a biblioteca AmCharts. 
+ 
+-> <a href="https://websocket-chat-project.herokuapp.com/" target="_blank" rel="noopener">websocket-chat-project.herokuapp.com</a> <br>
+   Chat em Node.Js com NestJS, TypeScript, MongoDB, Mongoose e Websocket
 
 - :triangular_flag_on_post: <a href="https://www.guga-araujo.dev.br/" target="_blank"><b> https://guga-araujo.dev.br/<b></a>
 - :book: <a href="https://guga-araujo.medium.com/" target="_blank" rel="noopener">guga-araujo.medium.com</a>
