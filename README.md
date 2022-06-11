@@ -18,7 +18,9 @@ Git Flow, APIs REST, Bootstrap e Sass/Scss.</b>
    Chat em Node.Js com NestJS, TypeScript, MongoDB, Mongoose e Websocket
 
 - :triangular_flag_on_post: <a href="https://www.guga-araujo.dev.br/" target="_blank"><b> https://guga-araujo.dev.br/<b></a>
+   
 - :book: <a href="https://guga-araujo.medium.com/" target="_blank" rel="noopener">guga-araujo.medium.com</a>
+   
 - :email:   gustavoaraujo.dev@gmail.com
 
 
