@@ -3,9 +3,9 @@
 
 ##  Desenvolvedor Node.Js, Vue.Js, TypeScript e JavaScript :computer:
 
-- :computer:   <b>Express, Nest.Js, Azure DevOps, Websocket,<br>
-MongoDB e MySQL com Mongoose ou Sequelize,<br>
-Git Flow, APIs REST, Bootstrap e Sass/Scss.</b>
+- :computer:   <b>Express, Nest.Js, Azure DevOps, Websocket, <br>
+Git Flow, APIs REST, Tailwind, Bootstrap e Sass/Scss, <br>
+MongoDB e MySQL com Mongoose ou Sequelize.</b>
 
 - :mortar_board: Cursando Análise e Desenvolvimento de Sistemas
 
@@ -15,7 +15,8 @@ Git Flow, APIs REST, Bootstrap e Sass/Scss.</b>
    Controlador de Tarefas com Vue 3, Vuex, Bulma, JSON-Server e gráficos utilizando a biblioteca AmCharts. 
  
 -> <a href="https://websocket-chat-project.herokuapp.com/" target="_blank" rel="noopener">websocket-chat-project.herokuapp.com</a> <br>
-   Chat em Node.Js com NestJS, TypeScript, MongoDB, Mongoose e Websocket
+   Chat em Node.Js com NestJS, TypeScript, MongoDB, Mongoose e Websocket <br>
+(Está em andamento o novo socket client, utilizando Vue 3, Nuxt, Vuex, Tailwind, Sass e websocket (socket.io))
 
 - :triangular_flag_on_post: <a href="https://www.guga-araujo.dev.br/" target="_blank"><b> https://guga-araujo.dev.br/<b></a>
    
