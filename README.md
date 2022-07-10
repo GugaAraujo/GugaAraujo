@@ -15,8 +15,8 @@
    Controlador de Tarefas com Vue 3, Vuex, Bulma, JSON-Server e gráficos utilizando a biblioteca AmCharts. 
  
 :small_orange_diamond: <a href="https://websocket-chat-project.vercel.app/" target="_blank" rel="noopener">websocket-chat-project.vercel.app</a> <br>
-   Chat com backend em Node.Js com NestJS, TypeScript, MongoDB, Mongoose e Websocket <br>
-   e com frontend utilizando Vue, Nuxt, Vuex, Tailwind e Websocket (socket.io))
+   Chat com backend em Node.Js com NestJS, TypeScript, MongoDB, Mongoose e Websocket (socket.io)) <br>
+   e com frontend utilizando Vue, Nuxt, Vuex, Tailwind, TypeScript e Websocket (nuxt-socket-io)
 
 :triangular_flag_on_post: <a href="https://www.guga-araujo.dev.br/" target="_blank"><b> guga-araujo.dev.br/<b></a>
    
