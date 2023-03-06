@@ -4,7 +4,7 @@
 [<img src="https://img.shields.io/badge/portfolio-guga--araujo.dev.br-important.svg?&style=for-the-badge&logoColor=white" />](https://www.guga-araujo.dev.br)
 
 
-## Gustavo Araújo | Fullstack Developer :computer:
+## Gustavo Araújo
 
 Desenvolvedor Fullstack com mais de 3 anos de experiência com aplicações Web.<br>
 Trabalho principalmente com Node.js, Vue.js, banco de dados relacional e não-relacional (PostgreSQL, MySQL e MongoDB).<br> 
