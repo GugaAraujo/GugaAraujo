@@ -1,4 +1,8 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/GugaAraujo/) 
+[<img src="https://img.shields.io/badge/-email-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:gustavoaraujo.dev@gmail.com)
+[<img src="https://img.shields.io/badge/-medium-green.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://guga-araujo.medium.com)
+[<img src="https://img.shields.io/badge/portfolio-guga--araujo.dev.br-important.svg?&style=for-the-badge&logoColor=white" />](https://www.guga-araujo.dev.br)
+
 
 ## Gustavo Araújo | Fullstack Developer :computer:
 
@@ -6,35 +10,6 @@ Desenvolvedor Fullstack com mais de 3 anos de experiência com aplicações Web.
 Trabalho principalmente com Node.js, Vue.js, banco de dados relacional e não-relacional (PostgreSQL, MySQL e MongoDB).<br> 
 Tenho experiência na construção de sistemas web, desde o início do projeto, manutenção e deploy da aplicação.<br> 
 Experiência com times remotos e ágeis.<br> 
-
-<b>
-:small_blue_diamond: Node, Express, Nest, Moleculer, APIs REST, Websocket, Jest; <br>
-:small_blue_diamond: JavaScript, TypeScript, Vue, React, Tailwind, Bootstrap e Sass/Scss; <br>
-:small_blue_diamond: PostgreSQL, MongoDB, MySQL, Knex, Mongoose e Sequelize; <br>
-:small_blue_diamond: Docker, Linux, Git Flow, Cloud, AWS, Azure, Digital Ocean;  <br>
-:small_blue_diamond: Terraform, Helm, Kubernetes, Grafana, Prometheus, Rancher; <br>
-</b><br>
-
-
-:mortar_board: Cursando Análise e Desenvolvimento de Sistemas
-
-:pushpin:   Meus mais recentes projetos:
-
-:small_orange_diamond: <a href="https://www.guga-araujo.dev.br" target="_blank" rel="noopener">Portfólio - guga-araujo.dev.br</a> <br>
-   Site onde detalho meus conhecimentos, desenvolvido em Next e Tailwind.
-
-:small_orange_diamond: <a href="https://task-tracker-vue.vercel.app" target="_blank" rel="noopener">Task Tracker - task-tracker-vue.vercel.app</a> <br>
-   Controlador de Tarefas com Node, Moleculer, Vue 3, Vuex, Bulma, Knex, Objection, PostgreSQL e gráficos utilizando a biblioteca AmCharts.
- 
-:small_orange_diamond: <a href="https://websocket-chat-project.vercel.app/" target="_blank" rel="noopener">Websocket Chat - websocket-chat-project.vercel.app</a> <br>
-   Chat com backend em Node.Js com NestJS, TypeScript, MongoDB, Mongoose e Websocket (socket.io)) <br>
-   e com frontend utilizando Vue, Nuxt, Vuex, Tailwind, TypeScript e Websocket (nuxt-socket-io)
-
-:triangular_flag_on_post: <a href="https://www.guga-araujo.dev.br/" target="_blank"><b> guga-araujo.dev.br/<b></a>
-   
-:book: <a href="https://guga-araujo.medium.com/" target="_blank" rel="noopener">guga-araujo.medium.com</a>
-   
-:email:   gustavoaraujo.dev@gmail.com <br><br>
 
 
 <p align="justify">
@@ -50,3 +25,42 @@ Experiência com times remotos e ágeis.<br>
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=GugaAraujo&layout=compact&theme=radical" />
   </a>  
 </p>
+
+
+:pushpin:   Meus mais recentes projetos:
+
+:small_orange_diamond: <a href="https://www.guga-araujo.dev.br" target="_blank" rel="noopener">Portfólio - guga-araujo.dev.br</a> <br>
+   Site onde detalho meus conhecimentos, desenvolvido em Next e Tailwind.
+
+:small_orange_diamond: <a href="https://task-tracker-vue.vercel.app" target="_blank" rel="noopener">Task Tracker - task-tracker-vue.vercel.app</a> <br>
+   Controlador de Tarefas com Node, Moleculer, Vue 3, Vuex, Bulma, Knex, Objection, PostgreSQL e gráficos utilizando a biblioteca AmCharts.
+ 
+:small_orange_diamond: <a href="https://websocket-chat-project.vercel.app/" target="_blank" rel="noopener">Websocket Chat - websocket-chat-project.vercel.app</a> <br>
+   Chat com backend em Node.Js com NestJS, TypeScript, MongoDB, Mongoose e Websocket (socket.io)) <br>
+   e com frontend utilizando Vue, Nuxt, Vuex, Tailwind, TypeScript e Websocket (nuxt-socket-io)
+   
+   
+### Technologies:
+<div style="display: inline_block"><br>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"></code>
+  <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></code>
+</div>
