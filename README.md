@@ -25,20 +25,6 @@ Experiência com times remotos e ágeis.<br>
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=GugaAraujo&layout=compact&theme=radical" />
   </a>  
 </p>
-
-
-:pushpin:   Meus mais recentes projetos:
-
-:small_orange_diamond: <a href="https://www.guga-araujo.dev.br" target="_blank" rel="noopener">Portfólio - guga-araujo.dev.br</a> <br>
-   Site onde detalho meus conhecimentos, desenvolvido em Next e Tailwind.
-
-:small_orange_diamond: <a href="https://task-tracker-vue.vercel.app" target="_blank" rel="noopener">Task Tracker - task-tracker-vue.vercel.app</a> <br>
-   Controlador de Tarefas com Node, Moleculer, Vue 3, Vuex, Bulma, Knex, Objection, PostgreSQL e gráficos utilizando a biblioteca AmCharts.
- 
-:small_orange_diamond: <a href="https://websocket-chat-project.vercel.app/" target="_blank" rel="noopener">Websocket Chat - websocket-chat-project.vercel.app</a> <br>
-   Chat com backend em Node.Js com NestJS, TypeScript, MongoDB, Mongoose e Websocket (socket.io)) <br>
-   e com frontend utilizando Vue, Nuxt, Vuex, Tailwind, TypeScript e Websocket (nuxt-socket-io)
-   
    
 ### Technologies:
 <div style="display: inline_block"><br>
