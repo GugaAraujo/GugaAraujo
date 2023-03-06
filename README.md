@@ -2,7 +2,6 @@
 
 ## Gustavo Araújo | Fullstack Developer :computer:
 
-
 Desenvolvedor Fullstack com mais de 3 anos de experiência com aplicações Web.<br>
 Trabalho principalmente com Node.js, Vue.js, banco de dados relacional e não-relacional (PostgreSQL, MySQL e MongoDB).<br> 
 Tenho experiência na construção de sistemas web, desde o início do projeto, manutenção e deploy da aplicação.<br> 
@@ -38,14 +37,16 @@ Experiência com times remotos e ágeis.<br>
 :email:   gustavoaraujo.dev@gmail.com <br><br>
 
 
- <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=gugaaraujo&show_icons=true&locale=en&layout=compact" alt="gugaaraujo" /></p>
-   
-   <br>
-
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=GugaAraujo)
-
-
-
-
-
-
+<p align="justify">
+  <a href="https://github.com/GugaAraujo/github-readme-stats">
+    <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api?username=GugaAraujo&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=radical"
+    />
+  </a>
+   <a href="https://github.com/GugaAraujo/github-readme-stats">
+    <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GugaAraujo&layout=compact&theme=radical" />
+  </a>  
+</p>
