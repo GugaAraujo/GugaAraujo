@@ -6,10 +6,10 @@
 
 ## Gustavo Araújo
 
-Desenvolvedor Fullstack com mais de 3 anos de experiência com aplicações Web.<br>
-Trabalho principalmente com Node.js, Vue.js, banco de dados relacional e não-relacional (PostgreSQL, MySQL e MongoDB).<br> 
-Tenho experiência na construção de sistemas web, desde o início do projeto, manutenção e deploy da aplicação.<br> 
-Experiência com times remotos e ágeis.<br> 
+Experienced Fullstack Developer with more than 3 years of hands-on expertise in creating and
+optimizing web applications.<br> 
+I excel in creating scalable solutions and applying my proﬁciency in
+problem-solving, creative thinking, and eﬀective communication.<br> 
 
 
 <p align="justify">
