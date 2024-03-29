@@ -11,23 +11,8 @@ optimizing web applications.<br>
 I excel in creating scalable solutions and applying my proﬁciency in
 problem-solving, creative thinking, and eﬀective communication.<br> 
 
-
-<p align="justify">
-<!--   <a href="https://github.com/GugaAraujo/github-readme-stats">
-    <img
-      height="150"
-      src="https://github-readme-stats.vercel.app/api?username=GugaAraujo&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=radical"
-    />
-  </a> -->
-   <a href="https://github.com/GugaAraujo/github-readme-stats">
-    <img
-      height="150"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GugaAraujo&layout=compact&theme=radical" />
-  </a>  
-</p>
-   
 ### Technologies:
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></code>
   <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></code>
   <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
@@ -48,4 +33,13 @@ problem-solving, creative thinking, and eﬀective communication.<br>
   <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg"></code>
   <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg"></code>
   <code><img height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"></code>
+</div>
+<br>
+<div align="justify">
+<!--     <img
+      height="150"
+      src="https://github-readme-stats.vercel.app/api?username=GugaAraujo&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=radical"
+    /> -->
+    <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GugaAraujo&theme=gotham&layout=compact&card_width=320" />
+    <img height="190" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GugaAraujo&theme=gotham&hide_border=false" alt="luiz-vicente">
 </div>
