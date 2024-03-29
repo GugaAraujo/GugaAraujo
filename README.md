@@ -40,6 +40,6 @@ problem-solving, creative thinking, and eﬀective communication.<br>
       height="150"
       src="https://github-readme-stats.vercel.app/api?username=GugaAraujo&count_private=true&show_icons=true&custom_title=Github%20Status&show=issues&theme=radical"
     /> -->
-    <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GugaAraujo&theme=gotham&layout=compact" alt="Guga Araujo"/>
-    <img height="170" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GugaAraujo&theme=gotham&hide_border=false" alt="Guga Araujo">
+    <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GugaAraujo&theme=gotham&layout=compact" alt="Guga Araujo" style="pointer-events: none !important; cursor: default !important;" onclick="return false;"/>
+    <img height="170" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GugaAraujo&theme=gotham&hide_border=false" alt="Guga Araujo" style="pointer-events: none !important; cursor: default !important;" onclick="return false;">
 </div>
