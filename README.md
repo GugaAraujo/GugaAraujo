@@ -6,7 +6,7 @@
 
 ## Gustavo Araújo
 
-Experienced Fullstack Developer with more than 3 years of hands-on expertise in creating and
+Experienced Fullstack Developer with more than 4 years of hands-on expertise in creating and
 optimizing web applications.<br> 
 I excel in creating scalable solutions and applying my proﬁciency in
 problem-solving, creative thinking, and eﬀective communication.<br> 
