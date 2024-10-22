@@ -1,15 +1,10 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/GugaAraujo/) 
 [<img src="https://img.shields.io/badge/-email-red.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:gustavoaraujo.dev@gmail.com)
-[<img src="https://img.shields.io/badge/-medium-green.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://guga-araujo.medium.com)
-[<img src="https://img.shields.io/badge/portfolio-guga--araujo.dev.br-important.svg?&style=for-the-badge&logoColor=white" />](https://www.guga-araujo.dev.br)
-
 
 ## Gustavo Araújo
 
-Experienced Fullstack Developer with more than 4 years of hands-on expertise in creating and
-optimizing web applications.<br> 
-I excel in creating scalable solutions and applying my proﬁciency in
-problem-solving, creative thinking, and eﬀective communication.<br> 
+Fullstack developer with 4 years of experience building front-end and back-end systems, using Node, Vue, React and Angular.<br> 
+I have expertise in relational and non-relational databases and automation, scalability and monitoring technologies to create robust solutions.<br> 
 
 ### Technologies:
 <div style="display: inline_block">
