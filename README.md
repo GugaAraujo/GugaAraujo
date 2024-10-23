@@ -3,7 +3,7 @@
 
 ## Gustavo Araújo
 
-Fullstack developer with 4 years of experience building front-end and back-end systems, using Node, Vue, React and Angular.<br> 
+Fullstack developer with 4 years of experience building front-end and back-end systems, using Node, JavaScript, TypeScript, Vue, React and Angular.<br> 
 I have expertise in relational and non-relational databases and automation, scalability and monitoring technologies to create robust solutions.<br> 
 
 ### Technologies:
