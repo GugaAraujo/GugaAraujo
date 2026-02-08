@@ -3,8 +3,21 @@
 
 ## Gustavo Araújo
 
-Fullstack developer with 4 years of experience building front-end and back-end systems, using Node, JavaScript, TypeScript, Vue, React and Angular.<br> 
-I have expertise in relational and non-relational databases and automation, scalability and monitoring technologies to create robust solutions.<br> 
+Fullstack developer with 6+ years of experience building and scaling production systems using Node.js, TypeScript, Vue, React, and cloud infrastructure.
+
+I work across backend, frontend, and infrastructure, helping products evolve from MVPs into robust platforms used daily by real teams.
+
+My experience includes:
+
+• Designing scalable APIs and distributed architectures
+• Implementing RBAC, authentication flows, and security best practices
+• Performance optimization with Redis caching, rate limiting, and throttling
+• Workflow automation and process digitalization replacing manual operations
+• Analytics dashboards and data-driven features using SQL and NoSQL databases
+
+I’m product-minded and business-aware, focused on building solutions that reduce operational friction and create measurable impact.
+
+Comfortable in agile and fast-moving environments.
 
 ### Technologies:
 <div style="display: inline_block">
